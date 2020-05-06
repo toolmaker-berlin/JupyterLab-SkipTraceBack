@@ -6,13 +6,13 @@
 ![Demo](screenshot.png?raw=true "Screenshot") 
 
 <br>
-I switch from Jupyter Notebook to JupyterLAB 2.11. Everything looks nice.  
-But I really miss the "skip traceback"-option from the classic notebook system. I dosn't find any solution, so I try to write one.  
+I've recently changed from Jupyter Notebook to JupyterLAB 2.11 because it's more comfortable.   
+But what I really missed was the "skip traceback"-option from the classic notebook. As I didn't find any solution on the web, I tried to write my own one.  
 
-This is my first program since I switched to (learning) python. My profession is programming in Assembler/C (x86, 68k, Z80, 6502, PIC etc.) and for my personal interest only, I am a "toolmaker", writing assembler, disassembler, helperfunctions etc.
+This is my first programme since I started learning python. My actual profession is programming in Assembler/C (x86, 68k, Z80, 6502, PIC etc.). Besides I'm a "toolmaker" writing assembler, disassembler, helper functions, tools etc.
 
 <br>
-I'm inspired by informations found on this sites:
+I was inspired by the following sites:
 
 https://stackoverflow.com/questions/46222753/how-do-i-suppress-tracebacks-in-jupyter
 https://stackoverflow.com/questions/25698448/how-to-embed-html-into-ipython-output
