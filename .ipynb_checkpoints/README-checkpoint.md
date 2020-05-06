@@ -1,8 +1,11 @@
 # JupyterLab-SkipTraceBack
 
 'Proof of concept' for an extension like "skip traceback" known from Jupyter Notebook (NBExtensions) 
-<br>
+<br>  
 
+![Demo](screenshot.png?raw=true "Screenshot") 
+
+<br>
 I switch from Jupyter Notebook to JupyterLAB 2.11. Everthing looks nice.  
 But I really miss the "skip traceback"-Option from the classic notebook system. I dosn't find any solution, so I try to write one.  
 

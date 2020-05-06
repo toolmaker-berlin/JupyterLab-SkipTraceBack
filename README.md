@@ -3,7 +3,7 @@
 'Proof of concept' for an extension like "skip traceback" known from Jupyter Notebook (NBExtensions) 
 <br>  
 
-![Demo JupyterLab](screenshot.png?raw=true "Screenshot") 
+![Demo](screenshot.png?raw=true "Screenshot") 
 
 <br>
 I switch from Jupyter Notebook to JupyterLAB 2.11. Everthing looks nice.  
