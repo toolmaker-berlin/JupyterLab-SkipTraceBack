@@ -10,7 +10,6 @@ ipython = get_ipython()
 
 reaesc = re.compile(r"\x1b[^m]*m")
 
-#######fehler_kurz = "FEHLER"
 
 ausgabehtml1 = """
 <html>
