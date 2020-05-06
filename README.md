@@ -6,10 +6,10 @@
 ![Demo](screenshot.png?raw=true "Screenshot") 
 
 <br>
-I switch from Jupyter Notebook to JupyterLAB 2.11. Everthing looks nice.  
-But I really miss the "skip traceback"-Option from the classic notebook system. I dosn't find any solution, so I try to write one.  
+I switch from Jupyter Notebook to JupyterLAB 2.11. Everything looks nice.  
+But I really miss the "skip traceback"-option from the classic notebook system. I dosn't find any solution, so I try to write one.  
 
-This is my first program since I switched to (learning) python. My profession is programming in Assembler/C (x86, 68k, Z80, 6502, PIC etc.) and for my interest only, I am a "toolmaker", writing assembler, disassembler, helperfunctions etc.
+This is my first program since I switched to (learning) python. My profession is programming in Assembler/C (x86, 68k, Z80, 6502, PIC etc.) and for my personal interest only, I am a "toolmaker", writing assembler, disassembler, helperfunctions etc.
 
 <br>
 I'm inspired by informations found on this sites:
